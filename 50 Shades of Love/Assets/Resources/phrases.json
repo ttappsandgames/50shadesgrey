@@ -1,0 +1,563 @@
+﻿{
+  "phrases": [
+    {
+      "id": 1,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": "Quedate con el que te susurre al oido y te moje hasta los pensamientos"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": "La peor mentira se esconde bajo el silencio"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": "La vida no se mide por las veces que respiras, sino por los momentos que te dejan sin aliento"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": "La suerte es el resultado de la suma de intentos, fracasos y perseverancia"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": "Con el silencio nos evadimos de los problemas, pero con el diálogo adquirimos la valentía de afrontarlo"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": "Hay quien olvida sin despedirse de ti, mientras que otros se despiden, pero nunca olvidan"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": "Nadie encuentra su camino sin haberse perdido varias veces"
+        }
+      ]
+    }
+  ,    {
+      "id": 8,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": "La vida es corta. Sonriele a quien llora, ignora a quien te critica, y se feliz con quien te importe"
+        }
+      ]
+    }
+  ,    {
+      "id": 9,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": "La vida te pondrá obstaculos, pero los límites te los pones tu"
+        }
+      ]
+    }
+  ,    {
+      "id": 10,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": "A la cima no se llega superando a los demás sino superándose a sí mismo"
+        }
+      ]
+    }
+  ,    {
+      "id": 11,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": "Eres aquello que nunca busqué pero siempre necesité"
+        }
+      ]
+    }
+  ,    {
+      "id": 12,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": "¿Qué cosa más grande que tener a alguien con quien te atrevas a hablar como contigo mismo?"
+        }
+      ]
+    }
+  ,    {
+      "id": 13,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 14,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 15,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 16,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 17,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 18,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 19,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 20,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 21,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 22,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 23,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 24,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 25,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 26,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 27,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 28,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 29,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 30,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 31,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 32,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 33,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 34,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 35,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 36,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 37,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 38,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 39,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 40,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 41,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 42,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 43,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 44,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,    {
+      "id": 45,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ,
+    {
+      "id": 46,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    },    {
+      "id": 47,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    },    {
+      "id": 48,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    },    {
+      "id": 49,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    },    {
+      "id": 50,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    },    {
+      "id": 51,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    },    {
+      "id": 52,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    },    {
+      "id": 53,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    },    {
+      "id": 54,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    },    {
+      "id": 55,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    },    {
+      "id": 56,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    },    {
+      "id": 57,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    },    {
+      "id": 58,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    },    {
+      "id": 59,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    },    {
+      "id": 60,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    },    {
+      "id": 61,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    },    {
+      "id": 62,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    },    {
+      "id": 63,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    },    {
+      "id": 64,
+      "translations": [
+        {
+          "language": "Spanish",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
